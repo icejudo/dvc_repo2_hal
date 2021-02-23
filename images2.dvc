@@ -1,5 +1,5 @@
 outs:
-- md5: eeeca62f05c093948010cbcdc6712916.dir
-  size: 3033820
-  nfiles: 20
+- md5: 78d27be295068c7475b39975461ded85.dir
+  size: 5998673
+  nfiles: 40
   path: remote://mihal3000/images2
