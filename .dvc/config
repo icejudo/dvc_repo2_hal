@@ -1,0 +1,8 @@
+[cache]
+    ssh = micache
+    type = symlink
+    protected = true
+['remote "micache"']
+    url = ssh://icejudo@hal3000.vicomtech.es/media/AjetoNetworking/icejudo/dvc/cache2
+['remote "mihal3000"']
+    url = ssh://icejudo@hal3000.vicomtech.es/media/AjetoNetworking/icejudo/dvc/
